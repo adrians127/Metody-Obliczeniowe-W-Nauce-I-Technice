@@ -3,3 +3,4 @@
 .LSOverride
 .vscode
 .ipynb_checkpoints
+.R*
